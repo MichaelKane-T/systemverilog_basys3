@@ -1,0 +1,5 @@
+REPO_PATH = ..
+MODULE_NAME = seven_seg_top
+SV_FILES = seven_seg_top.sv seven_seg_dec.sv
+
+include $(REPO_PATH)/resources/common.mk

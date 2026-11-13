@@ -1,0 +1,9 @@
+work/
+build/
+.Xil/
+*.log
+*.jou
+*.dcp
+*.bit
+*.rpt
+*.str
